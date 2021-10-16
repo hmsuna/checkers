@@ -1,7 +1,7 @@
 /*
 	Haley Montgomery
-	C++ 2020
-	Due: Sep 14
+	C++ 2021
+	Due: OCt 15 
 	Lab 2.2 Exploring Output
 	Lab description This lab is designed to get you familiar out to the command promt using C++. Complete the following problems
 */
